@@ -2545,3 +2545,95 @@ Enter this code with your HomeKit app on your iOS device to pair with Homebridge
 [37m[5/23/2020, 7:22:33 AM][39m [36m[Motor][39m Motor is turned off.
 [37m[5/23/2020, 8:20:01 PM][39m [36m[Motor][39m Motor is turned on.
 [37m[5/23/2020, 8:36:23 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/24/2020, 7:25:41 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/24/2020, 7:39:07 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/24/2020, 5:58:33 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/24/2020, 6:10:22 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/25/2020, 6:26:36 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/25/2020, 6:42:36 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/25/2020, 7:10:40 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/25/2020, 7:12:14 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/25/2020, 7:25:21 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/26/2020, 7:58:08 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/26/2020, 8:13:00 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/26/2020, 9:22:34 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/26/2020, 9:37:28 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/27/2020, 7:49:47 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/27/2020, 8:03:07 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/27/2020, 6:31:06 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/27/2020, 6:45:21 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/27/2020, 6:59:43 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/27/2020, 6:59:51 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/27/2020, 6:59:53 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/28/2020, 7:44:56 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/28/2020, 7:59:49 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/28/2020, 5:42:49 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/28/2020, 5:53:37 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/28/2020, 5:56:30 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/29/2020, 7:06:07 AM][39m [36m[Motor][39m Motor is on.
+[37m[5/29/2020, 7:06:07 AM][39m [36m[Motor][39m Motor is on.
+[37m[5/29/2020, 7:06:17 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/29/2020, 7:22:18 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/29/2020, 4:58:46 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/29/2020, 5:10:45 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/30/2020, 6:08:26 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/30/2020, 6:23:09 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/30/2020, 11:50:59 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/30/2020, 12:06:11 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/31/2020, 6:24:21 AM][39m [36m[Motor][39m Motor is on.
+[37m[5/31/2020, 6:24:23 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/31/2020, 6:24:25 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/31/2020, 6:24:31 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/31/2020, 6:38:02 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[5/31/2020, 12:27:57 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[5/31/2020, 12:43:34 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[6/1/2020, 7:16:06 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/1/2020, 7:16:17 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[6/1/2020, 7:17:10 AM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/lib/node_modules/homebridge/bin/homebridge
+[37m[6/1/2020, 7:17:10 AM][0m [36m[HB Supervisor][0m UI Path: /usr/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[37m[6/1/2020, 7:17:10 AM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I
+[37m[6/1/2020, 7:17:10 AM][0m [36m[HB Supervisor][0m Started Homebridge with PID: 563
+[37m[6/1/2020, 7:17:16 AM][39m Loaded config.json with 0 accessories and 2 platforms.
+[37m[6/1/2020, 7:17:16 AM][39m ---
+[37m[6/1/2020, 7:17:16 AM][39m Loaded plugin: homebridge-cmdswitch2
+[37m[6/1/2020, 7:17:16 AM][39m Registering platform 'homebridge-cmdswitch2.cmdSwitch2'
+[37m[6/1/2020, 7:17:16 AM][39m ---
+[37m[6/1/2020, 7:17:16 AM][39m Loaded plugin: homebridge-config-ui-x
+[37m[6/1/2020, 7:17:16 AM][39m Registering platform 'homebridge-config-ui-x.config'
+[37m[6/1/2020, 7:17:16 AM][39m ---
+[37m[6/1/2020, 7:17:16 AM][39m Loading 2 platforms...
+[37m[6/1/2020, 7:17:16 AM][39m [36m[Motor][39m Initializing cmdSwitch2 platform...
+[37m[6/1/2020, 7:17:16 AM][39m [36m[Config][39m Initializing config platform...
+[37m[6/1/2020, 7:17:16 AM][39m [36m[Config][39m Running in Service Mode
+[37m[6/1/2020, 7:17:16 AM][39m Loading 0 accessories...
+Setup Payload:
+X-HM://0023ISYWYBL0L
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[6/1/2020, 7:17:16 AM][39m [36m[Motor][39m Initializing platform accessory 'Motor'...
+[37m[6/1/2020, 7:17:16 AM][39m Homebridge is running on port 51826.
+[37m[6/1/2020, 7:17:16 AM][39m [36m[Motor][39m Motor is on.
+[0;37m[6/1/2020, 7:17:21 AM] [0m[0;36m[Config][0m [0;33mHomebridge Config UI X v4.15.1 is listening on :: port 8080[0m
+[37m[6/2/2020, 6:35:39 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/2/2020, 6:08:24 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/2/2020, 6:23:08 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[6/3/2020, 9:44:36 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/3/2020, 10:00:20 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[6/3/2020, 11:32:01 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/3/2020, 11:46:19 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[6/4/2020, 12:13:56 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/4/2020, 12:28:46 PM][39m [36m[Motor][39m Motor is turned off.
+[37m[6/5/2020, 6:42:48 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/5/2020, 6:57:09 AM][39m [36m[Motor][39m Motor is turned off.
+[37m[6/5/2020, 3:49:31 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/5/2020, 4:48:00 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/5/2020, 4:48:21 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/5/2020, 5:50:41 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/6/2020, 9:30:23 AM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/6/2020, 8:41:15 PM][39m [36m[Motor][39m Motor is turned on.
+[37m[6/6/2020, 8:41:21 PM][39m [36m[Motor][39m Motor is turned off.
+[0;37m[6/7/2020, 2:15:29 AM] [0m[0;36m[Config][0m [homebridge-config-ui-x] Failed to check registry.npmjs.org for updates: socket hang up
